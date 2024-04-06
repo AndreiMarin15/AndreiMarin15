@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=andreimarin15&label=Profile%20views&color=09f6c7&style=flat" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=andreimarin15.andreimarin15" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andrei!;" />
