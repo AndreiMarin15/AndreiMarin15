@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **my capstone project**
+ 🔭 I’m currently working on **Endotracker**
  
  🌱 I’m currently learning **Flutter, Vue, Typescript, Supabase**
 
