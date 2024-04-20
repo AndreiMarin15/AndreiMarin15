@@ -17,7 +17,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, Next.js, Android**
  
- 👨‍💻 You can also view my website [andreimar.in](andreimar.in)
+ 👨‍💻 You can also view my website [andreimar.in](https://andreimar.in)
 
  📄 Know about my experiences [https://andreimar.in/assets/files/Andrei_Marin_Resume.pdf](https://andreimar.in/assets/files/Andrei_Marin_Resume.pdf)
 
