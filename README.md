@@ -11,9 +11,9 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Endotracker**
+ 🔭 I’m currently working on **Endotracker** for my capstone project
  
- 🌱 I’m currently learning **Flutter, Vue, Typescript, Supabase**
+ 🌱 I’m currently working as a Fullstack Developer at Control Flow Labs
 
  💬 Ask me about **Node.js, React, Firebase, Next.js, Android**
  
