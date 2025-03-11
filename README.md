@@ -15,7 +15,7 @@
  
  🔭 I worked on **Endotracker** for my capstone project
  
- 🌱 I’m currently working as a Fullstack Developer at Control Flow Labs
+ 🌱 I’m currently working as a **Fullstack Developer** at **Tolstoy**
 
  💬 Ask me about **Node.js, React, Firebase, Next.js, Android**
  
